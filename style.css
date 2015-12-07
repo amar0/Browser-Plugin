@@ -1,0 +1,116 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 100%;
+  width: 50%;
+  height: 50%;
+}
+
+#status {
+  /* avoid an excessively wide status text */
+  white-space: pre;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 400px;
+}
+
+.class {
+  padding: 0 20px 0 10px;
+}
+
+.message {
+  font-size: 0.9em;
+  margin: 50px 50px 50px 60px;
+  width: 160px;
+  position: relative;
+  top: -30px;
+}
+
+.img {
+  width: 25%;
+  height: 25%;
+  margin-left: 5px;
+  position: relative;
+  top: -109px;
+}
+
+.gif {
+  width: 22%;
+  height: 22%;
+  position: relative;
+  top: -109px;
+  left: 60px;
+}
+
+a {
+  text-decoration: none;
+  color: #008080;
+}
+
+.news {
+  position: relative;
+  top: -100px;
+}
+
+.timesofindia {
+  width: 179%;
+  padding: 5px 5px 5px 5px;
+  background: #f8f8f8;
+}
+
+.flipboard {
+  width: 179%;
+	background: #f8f8f8;
+  padding: 5px 5px 5px 5px;
+  margin-top: 5px;
+}
+
+.facebook {
+  width: 179%;
+	background: #f8f8f8;
+  padding: 5px 5px 5px 5px;
+  margin-top: 5px;
+}
+
+.techcrunch {
+  width: 179%;
+	background: #f8f8f8;
+  padding: 5px 5px 5px 5px;
+  margin-top: 5px;
+}
+
+.linkedin {
+  width: 179%;
+	background: #f8f8f8;
+  padding: 5px 5px 5px 5px;
+  margin-top: 5px;
+}
+
+.flipkart {
+  width: 179%;
+  background: #f8f8f8;
+  padding: 5px 5px 5px 5px;
+  margin-top: 5px;
+}
+
+.amazon {
+  width: 179%;
+  background: #f8f8f8;
+  padding: 5px 5px 5px 5px;
+  margin-top: 5px;
+}
+
+.color {
+  margin-top: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.rgb-color {
+  margin-top: 10px;
+}
+
+input {
+  border: none;
+  border-radius: 3px;
+  width: 183%;
+  padding: 5px 0 5px 0;
+}
